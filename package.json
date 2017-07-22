@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "version": "",
+  "description": "A test project for using Solidity",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
